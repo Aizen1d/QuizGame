@@ -1,0 +1,9 @@
+Grammar Choices
+
+Quick  - 5
+Normal  - 15
+Advanced  - 30
+
+
+
+(Num Integer, Questions Varchar(255), ChoiceA Varchar(30), ChoiceB Varchar(30), ChoiceC Varchar(30), ChoiceD Varchar(30), Answer Varchar(10));

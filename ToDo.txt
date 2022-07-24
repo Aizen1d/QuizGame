@@ -1,0 +1,2 @@
+[Settings]:
+-On/Off Confirmation
